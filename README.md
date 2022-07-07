@@ -1,5 +1,6 @@
 # koma-mold
 mold data for making spinning top
+For more information, please check https://www.toaster.design/post/koma/
 
 ### Mold
 ![koma_bom (1)](https://user-images.githubusercontent.com/63788611/177699550-c75b2f06-ba1f-4bab-ac15-4b66fb8d7c61.svg)
